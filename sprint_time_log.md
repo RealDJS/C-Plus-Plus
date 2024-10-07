@@ -37,7 +37,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |9/30/24   | 18:45    |  IM    | Getting my Github repository to work correctly. Made a class.| 145         |
 |10/2/24   | 10:00    |  TP    | Presentation prep                                            |  60         |
 |10/2/24   | 14:00    |  MTG   | Team Review Meeting                                          |  60         |
-|          |          |        |                                                              |             |
+|10/4/24   | 12:30    |  IM    | Finished classes and program.                                | 240         |
 |          |          |        |                                                              |             |
 |          |          |        |                                                              |             |
 |          |          |        |                                                              |             |
@@ -51,7 +51,7 @@ _Note: Add more rows as needed._
 
 |Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
+|IM - Individual Module         |     13:10                |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
